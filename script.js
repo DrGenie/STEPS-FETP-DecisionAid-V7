@@ -1,7 +1,7 @@
 /* ===================================================
    STEPS FETP India Decision Aid tool
    Next generation script with working tooltips,
-   WTP based benefits, sensitivity, Copilot integration and exports
+   WTP based benefits, sensitivity, Copilot/chatgpt integration and exports
    =================================================== */
 
 /* ===========================
